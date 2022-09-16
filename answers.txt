@@ -35,4 +35,4 @@ CMPUT 404 Lab 1 Answers
    <DL>
    </DL>
 
-- POST is a method that allows us to send content to the specified URL.
+-  POST is a method that allows us to send content to the specified URL.
