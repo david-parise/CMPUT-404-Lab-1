@@ -1,4 +1,4 @@
 import requests
 
-res = requests.get("http://www.google.com")
-print(res.text)
+res = requests.__version__
+print(res)
