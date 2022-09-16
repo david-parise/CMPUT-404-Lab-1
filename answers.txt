@@ -13,13 +13,13 @@ CMPUT 404 Lab 1 Answers
 -  Python installs a newer version of the library on the virtual environment whereas an older version is installed in the system.
 
 5. Question 5
--  Status code 301 is returned for http://google.com.
--  In order to get status code 200, we must go to the URL http://www.google.com.
+-  Status code 301 is returned for http://google.com
+-  In order to get status code 200, we must go to the URL http://www.google.com
 
 6. Question 6
 -  -i gives status code 418
--  Status code 301 is returned for http://google.com/teapot. This status code is not returned by either curl -i nor curl -iL for http://www.google.com/teapot.
--  Status code 418 is returned when we curl http://www.google.com/teapot.
+-  Status code 301 is returned for http://google.com/teapot. This status code is not returned by either curl -i nor curl -iL for http://www.google.com/teapot
+-  Status code 418 is returned when we curl http://www.google.com/teapot
 
 7. Question 7
 -  <H3>Form Contents:</H3>
@@ -36,3 +36,6 @@ CMPUT 404 Lab 1 Answers
    </DL>
 
 -  POST is a method that allows us to send content to the specified URL.
+
+8. Question 8
+-  Raw URL to Python script: https://raw.githubusercontent.com/david-parise/CMPUT-404-Lab-1/main/curl.py
